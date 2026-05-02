@@ -1,11 +1,11 @@
 # DisRandevuTakip
 C# Windows Forms ve SQL Server kullanılarak geliştirilen diş kliniği randevu takip sistemi.
--Kullanılan Teknolojiler
+#Kullanılan Teknolojiler
 C#
 Windows Forms
 MSSQL
 
--Proje Özellikleri
+#Proje Özellikleri
 Randevu ekleme
 Randevu güncelleme
 Randevu silme
